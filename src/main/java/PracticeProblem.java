@@ -1,3 +1,10 @@
+/**
+	* File: Practice problem 4.5 - Nested Loops
+	* Author: Alfred Yang
+	* Date Created: April 16, 2026
+	* Date Last Modified: April 16, 2026
+	*/
+
 public class PracticeProblem {
 
 	public static void main(String args[]) {
